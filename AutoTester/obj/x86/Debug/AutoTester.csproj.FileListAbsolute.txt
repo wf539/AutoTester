@@ -1,0 +1,9 @@
+C:\DATA\GitHub\AutoTester\AutoTester\bin\Debug\AutoTester.exe
+C:\DATA\GitHub\AutoTester\AutoTester\bin\Debug\AutoTester.pdb
+C:\DATA\GitHub\AutoTester\AutoTester\obj\x86\Debug\AutoTester.csprojResolveAssemblyReference.cache
+C:\DATA\GitHub\AutoTester\AutoTester\obj\x86\Debug\AutoTester.AboutAutoTester.resources
+C:\DATA\GitHub\AutoTester\AutoTester\obj\x86\Debug\AutoTester.Form1.resources
+C:\DATA\GitHub\AutoTester\AutoTester\obj\x86\Debug\AutoTester.Properties.Resources.resources
+C:\DATA\GitHub\AutoTester\AutoTester\obj\x86\Debug\AutoTester.csproj.GenerateResource.Cache
+C:\DATA\GitHub\AutoTester\AutoTester\obj\x86\Debug\AutoTester.exe
+C:\DATA\GitHub\AutoTester\AutoTester\obj\x86\Debug\AutoTester.pdb
